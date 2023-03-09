@@ -1,0 +1,18 @@
+#dom-container {
+    border: solid;
+    width: 350px;
+    text-align: center;
+    margin: 20px;
+}
+
+#ol {
+    text-align: left;
+    margin: 10px 40px;
+}
+
+#show,
+#add,
+#del {
+    width: 55px;
+    height: 28px;
+}

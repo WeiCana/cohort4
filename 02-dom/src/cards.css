@@ -1,0 +1,19 @@
+/* working with DOM */
+button {
+    width: 90px;
+    height: 25px;
+    margin: 8px;
+}
+
+#container {
+    text-align: center;
+    width: 350px;
+    border: solid;
+    margin: 20px;
+    padding: 0 0 20px 0;
+}
+
+#card {
+    border: solid;
+    margin: 5px 10px;
+}
